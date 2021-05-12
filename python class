@@ -1,0 +1,62 @@
+
+string format.
+	''
+	""
+	""" and ''' 
+	%
+	.format (default, numbered, named, **)
+	f""
+
+simple data types.
+	string
+	int
+	float
+	complex
+	boolean
+
+container data types
+	arrays ?
+	list, set, dict, tuple
+		stacks & Queue ?
+		slicing
+		reverse using slicing
+		comprehension
+		iterator
+		generators
+		decorators
+	collections
+
+OOP concepts
+	class, instance
+	class vs instance variable
+	class, instance, static methods
+	inheritance
+	magic / dunder methods
+		__repr__
+		__str__
+		__len__
+		__add__
+		__eq__
+		__gt__
+	property decorators
+
+	access modifiers
+		private
+		protected
+		public
+	
+if I still have time
+	__name__ , __main__
+	global , local varibales
+	LEGB (Local, Enclosing, Global, Buildin)
+	_ in number
+	unpacking
+		* 
+		_
+		*_
+
+feature(before 3rd wave)
+	numpy
+	panda
+
+
